@@ -10,7 +10,7 @@ A near-comprehensive list of the persons and beings of interest.
 ***The Party:***
 
 Kell
-		Formerly Kelran, now [[Kell Carmaris.jpg|Kell Carmaris]]
+		Formerly Kelran, now Kell Carmaris
 		Joined the Harpers and is in contact with [[Tyranny of Dragons/People#^ec7f16\|Remalia Haventree]]
 { #54649d}
 
