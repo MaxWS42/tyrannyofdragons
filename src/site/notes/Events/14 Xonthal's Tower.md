@@ -10,6 +10,6 @@ Hannibal, Erevan and Mares found a room with important gloves *?* and the hourgl
 We fought several cultists there and were able to recover the hourglass teleportation key.
 
 
-This is where the party [[Events/Left off\|left off]].
+This is where the party [[Left off\|left off]].
 
 ![Xonthal's Tower.jpg](/img/user/Images/Xonthal's%20Tower.jpg)
