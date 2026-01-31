@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/events/13-the-metallic-dragons-and-the-defector/"}
+---
+
+We returned to Waterdeep and demanded to see the Council at once, while they were in session. However, their guards refused us and so [[People#^54649d\|Kell]] had no choice but to step into the Border Ethereal and walk through the door. He pleaded for the Council to admit the rest of the party on the grounds of bringing big news from the North.
+Firstly, we had rescued [[People#^476bbd\|Maccath the Crimson]] from the lair of a dragon (and fleshmonger). Secondly, [[People#^e22bdc\|Chad]] had been killed by a [[People#^f9d438\|blue dragon]], who had even come undercover into the Council itself as a fake triton emissary. This news was enough for the rest of the party to be brought in and for discussion to begin.
+
+The Council has been contacted by the Red Wizards of Thay and told that those Red Wizards allied with the Cult were outcasts. The rest of the Red Wizards of Thay are in fact interested in helping against the Cult.
+
+They have also been contacted by a potential [[People#^bcd3f9\|defector]] of the Cult, who is offering the *blue dragon mask* in exchange for their own safety and extraction. They are in Xonthal’s Tower, which is protected by an elaborate made and is currently occupied by the Cult. The Council believes this lead is valuable and plenty worth exploring, and also that we are both capable and expendable enough to complete this mission. 
+
+
+Finally, the Council also asked us to negotiate with the metallic dragons, who, represented by [[People#^4c72a4\|Elia]], have come to humans to determine if cooperating with us will be important for the coming days, as we represent a neutral group with interests in many factions and have generally been positively and actively involved in current affairs.
+[[People#^4c72a4\|Elia]] offers to transport us to the meeting spot by wing if we leave immediately, and so we do. [[People#^ec7f16\|Remalia Haventree]] advises Kell that although the Harpers have an overall good relationship with metallic dragons, they do still have strong negative racial stereotypes against the dwarves and the elves for their historic atrocities.
+Our meeting with the metallic dragon council, led by the ancient gold dragon [[People#^fce0ca\|Protanther]]; accompanied by the ancient dragons [[People#^4c72a4\|Elia]], [[People#^ea512e\|Tazmikella]], [[People#^5d77af\|Nimur]], [[People#^4804b0\|Eluthra]]; and a miscellany of other, younger dragons behind their dias, was in fact relatively smooth-going.
+	The dragons asked us for three concessions before offering their aid. Firstly, [[People#^fce0ca\|Protanther]] wants a sincere apology for the _dracorage mythal_ from [[People#^a72d4f\|King Melandrach]] representing the elves. Secondly, [[People#^4c72a4\|Elia]] wants another apology from the dwarven [[People#^a00831\|Ambassador Brawnanvil]] for the wrongful deaths the Dragonmoots (historic dwarven hunts of all dragonkind). Finally, [[People#^ea512e\|Tazmikella]] asked that [[People#^25dc02\|Hannibal]] return *Hazirawn* to her hoard, from which it had been stolen, and because it is a dangerous item to wield for anyone.
+	In exchange for our promise to secure these three corrections for past wrongs, the metallic dragons agreed to work with us in preventing the Cult's summoning of Tiamat.
+We returned to Waterdeep and were able to convince the elf and dwarf representatives to give their sincere apologies, as begrudging as they may have been.
+
+We therefore left for the small town that borders the maze protecting [[Events/14 Xonthal's Tower\|Xonthal's Tower]] to find the [[People#^bcd3f9\|defector]].
